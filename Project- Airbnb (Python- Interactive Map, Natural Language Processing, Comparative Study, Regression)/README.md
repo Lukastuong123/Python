@@ -1,3 +1,6 @@
-# Project- Airbnb (Python- Interactive Map, Natural Language Processing, Comparative Study, Regression)
+# Airbnb 
+Interactive Map, Natural Language Processing, Comparative Study, Regression)
 
-sadasdasdsd
+## Medium Post
+Part A: 
+Part B: 
