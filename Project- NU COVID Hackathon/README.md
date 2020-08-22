@@ -28,4 +28,4 @@ Integrate an SQL or NoSQL database so the training data gets available for futur
 The judges were seriously impressed by our innovative proposal and we won First Place of the Hackathon. I have included some of the feedbacks below. 
 The achievement is suprising given to the fact our team - was the only group that mostly comprised Analytics students from the new Seattle Campus (the other groups had majority representation with Software Development, IT, Computer Science backgrounds that are from older campuses in Boston, Silicon Valley, Toronto).
 
-![](images/ChatBox-Demonstration.png)
+![](images/Feedbacks2.jpg)
