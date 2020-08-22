@@ -4,7 +4,7 @@ The main goal of this project is to bring the scattered information into a singl
 ## Academic paper search engine for Biostaticians 
 The search engine allows Biostaticians to find relevant research articles from daily updated  [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)  source and Google Search all thanks to predesigned questions. For example, the first question has 153 academic papers and suitable links
 <p align="center">
-  <img width="600" height="500" src="images/Search-Engine.jpg">
+  <img width="550" height="500" src="images/Search-Engine.jpg">
 </p>
 
 
