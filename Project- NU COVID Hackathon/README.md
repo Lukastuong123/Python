@@ -24,17 +24,12 @@ This chat bot can be integrated into different platform with respect to the requ
 ![](images/ChatBox-Demonstration.png)
 
 ## Recommendations for FutureWork 
-Academic papers search engine: implement effective NLP deep learning models using 4 different approaches for Text similarities (Text Pre-Processing, Feature Extraction, Vector Similarity, Decision Function)
-
-Integrate academic papers search engine work to the chatbot
-
-Build UI for messaging channels like Slack, Facebook, Telegram
-
-Integrate an SQL or NoSQL database so the training data gets available for future training purposes
+- Academic papers search engine: implement effective NLP deep learning models using 4 different approaches for Text similarities (Text Pre-Processing, Feature Extraction, Vector Similarity, Decision Function)
+- Integrate academic papers search engine work to the chatbot
+- Build UI for messaging channels like Slack, Facebook, Telegram
+- Integrate an SQL or NoSQL database so the training data gets available for future training purposes
 
 ## Results and feedbacks 
-The judges were seriously impressed by our innovative proposal and we won First Place of the Hackathon. I have included some of the feedbacks below. 
-
-It is such a suprising vitory given to the fact our team - was the only group that mostly comprised Analytics students from the new Seattle Campus (the other groups had majority representation with Software Development, IT, Computer Science backgrounds that are from older campuses in Boston, Silicon Valley, Toronto).
+The judges were seriously impressed by our innovative proposal and we won First Place of the Hackathon. I have included some of the feedbacks below. It is such a suprising vitory given to the fact our team - was the only group that mostly comprised Analytics students from the new Seattle Campus (the other groups had majority representation with Software Development, IT, Computer Science backgrounds that are from older campuses in Boston, Silicon Valley, Toronto).
 
 ![](images/Feedbacks2.jpg)
