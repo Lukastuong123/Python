@@ -1,8 +1,8 @@
-# INTERACTIVE VIRTUAL AGENT FOR QUESTIONS RELATED TO COVID-19
+# Interactive Virtual Agents for questions related to COVID-19
 The main goal of this project is to bring the scattered information into a single source where the employees, students and esepcially biostatiscians can have access it with one click and have a real time conversation with the agent which provides an accurate information available around the web within seconds. Most of the Datasets are manually entered and it is hard to update the information which is changed on daily bases, so our objective is to connect the API directly to the Chatbot and the Academic Paper Search Engine 
 
 ## Academic paper search engine for Biostaticians 
-The search engine allows Biostaticians to find relevant research articles from daily updated sources and google search all thanks to predesigned questions. For example, the first question has 153 academic papers and suitable links
+The search engine allows Biostaticians to find relevant research articles from [daily updated Kaggle source](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) and google search all thanks to predesigned questions. For example, the first question has 153 academic papers and suitable links
 ![](images/Search-Engine.jpg)
 
 ## The ChatBot
