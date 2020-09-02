@@ -21,7 +21,7 @@ Also gives information about the worldwide confirmed, Death and Recovered patien
 This chat bot can be integrated into different platform with respect to the requirement.
 
 ![](images/Chatbot-Data-Retrieval-and-Analysis.png)
-![](images/ChatBox-Demonstration.png)
+![](images/ChatBox-Demonstration.png.png)
 
 ## Recommendations for FutureWork 
 - Academic papers search engine: implement effective NLP deep learning models using 4 different approaches for Text similarities (Text Pre-Processing, Feature Extraction, Vector Similarity, Decision Function)
