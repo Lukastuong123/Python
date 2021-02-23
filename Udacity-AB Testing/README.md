@@ -1,5 +1,6 @@
 # A/B Testing for an Pre-enrollment Intervention in Udacity 
 
+Sum up article : https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499
 ## Experiment Description
 
 At the time of this experiment, Udacity courses currently have two options on the course overview page: "start free trial", and "access course materials". 
