@@ -1,0 +1,97 @@
+#Exercise 1: Ingest and query relational data
+sqoop import-all-tables \ 
+-m {{cluster_data.worker_node_hostname.length}} \
+--connect jdbc:mysql://{{cluster_data.manager_
+node_hostname}}:3306/retail_db \
+--username=retail_dba \
+--password=cloudera \
+--compression-codec=snappy \
+--as-parquetfile \
+--warehouse-dir=/user/hive/warehouse \
+--hive-import
+
+> hadoop fs -ls /user/hive/warehouse/
+> hadoop fs -ls /user/hive/warehouse/categories/
+
+invalidate metadata;
+show tables;
+
+-- Most popular product categories
+select c.category_name, count(order_item_quantity) as count
+from order_items oi
+inner join products p on oi.order_item_product_id =
+p.product_id
+inner join categories c on c.category_id = p.product_
+category_id
+group by c.category_name
+order by count desc
+limit 10;
+
+
+-- top 10 revenue generating products
+select p.product_id, p.product_name, r.revenue
+from products p inner join
+(select oi.order_item_product_id, sum(cast(oi.order_item_
+subtotal as float)) as revenue
+from order_items oi inner join orders o
+on oi.order_item_order_id = o.order_id
+where o.order_status <> ‘CANCELED’
+and o.order_status <> ‘SUSPECTED_FRAUD’
+group by order_item_product_id) r
+on p.product_id = r.order_item_product_id
+order by r.revenue desc
+limit 10;
+
+
+
+
+====================================================================================
+Exercise 2: Correlate structured data with unstructured data
+> sudo -u hdfs hadoop fs -mkdir /user/hive/warehouse/ original_access_logs
+> sudo -u hdfs hadoop fs -copyFromLocal /opt/examples/log_files/access.log.2 /user/hive/warehouse/original_access_logs
+
+
+> hadoop fs -ls /user/hive/warehouse/original_access_logs
+
+
+CREATE EXTERNAL TABLE intermediate_access_logs (
+ip STRING,
+date STRING,
+method STRING,
+url STRING,
+http_version STRING,
+code1 STRING,
+code2 STRING,
+dash STRING,
+user_agent STRING)
+ROW FORMAT SERDE ‘org.apache.hadoop.hive.contrib.
+serde2.RegexSerDe’
+WITH SERDEPROPERTIES (‘input.regex’ = ‘([^ ]*) - - \\[([^\\]]*)\\]
+“([^\ ]*) ([^\ ]*) ([^\ ]*)” (\\d*) (\\d*) “([^”]*)”
+“([^”]*)”’,
+‘output.format.string’ = “%1$$s %2$$s %3$$s %4$$s
+%5$$s %6$$s %7$$s %8$$s %9$$s”)
+LOCATION ‘/user/hive/warehouse/original_access_logs’;
+CREATE EXTERNAL TABLE tokenized_access_logs (
+ip STRING,
+date STRING,
+method STRING,
+url STRING,
+http_version STRING,
+code1 STRING,
+code2 STRING,
+dash STRING,
+user_agent STRING)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ‘,’
+LOCATION ‘/user/hive/warehouse/tokenized_access_logs’;
+ADD JAR {{lib_dir}}/hive/lib/hive-contrib.jar;
+INSERT OVERWRITE TABLE tokenized_access_logs SELECT *
+FROM intermediate_access_logs;
+
+
+invalidate metadata;
+
+
+select count(*),url from tokenized_access_logs
+where url like ‘%\/product\/%’
+group by url order by count(*) desc;
