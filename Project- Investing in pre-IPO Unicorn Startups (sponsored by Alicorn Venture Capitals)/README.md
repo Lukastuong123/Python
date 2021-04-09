@@ -6,4 +6,4 @@
 
 - [Blog Post]() 
 - [Report](https://github.com/Lukastuong123/Python/blob/master/Project-%20Investing%20in%20pre-IPO%20Unicorn%20Startups%20(sponsored%20by%20Alicorn%20Venture%20Capitals)/Final%20Project%20Proposal.pdf) 
-- [Presentation]()
+- [Presentation](https://github.com/Lukastuong123/Python/blob/master/Project-%20Investing%20in%20pre-IPO%20Unicorn%20Startups%20(sponsored%20by%20Alicorn%20Venture%20Capitals)/Final%20Presentation.pptx)
