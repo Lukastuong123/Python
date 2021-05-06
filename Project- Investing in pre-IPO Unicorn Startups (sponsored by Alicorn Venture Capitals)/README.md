@@ -9,4 +9,4 @@
 - [Blog Post](https://www.linkedin.com/feed/update/urn:li:activity:6795761592907780096/) 
 
 
-![image](https://user-images.githubusercontent.com/56985560/117250027-6f412600-adf7-11eb-9ce0-50f7a613fdfb.png)
+![image](https://user-images.githubusercontent.com/56985560/117250104-91d33f00-adf7-11eb-9163-c24b662dcba7.png)
