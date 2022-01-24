@@ -1,0 +1,712 @@
+Workshop,Region/Country,Industry,Organization size,Participant ID,Race,Gender,Orientation,Age,Disability,Years in company,Satisfaction,Staff level,Staff type
+1,US,Various,Missing,381,White or Caucasian,Female,Heterosexual,30+,invisible,0,1,,
+1,US,Various,Missing,382,White or Caucasian,Male,Heterosexual,50+,no,5,2,,
+1,US,Various,Missing,383,White or Caucasian,Male,Gay/ Lesbian,20+,no,2,2,,
+1,US,Various,Missing,384,White or Caucasian,Male,Heterosexual,50+,no,5,1,,
+1,US,"Legal, nonprofit",Large,474,Prefer not to say,Female,Prefer not to say,20+,invisible,0,2,,
+2,US,"Legal, nonprofit",Large,475,White or Caucasian,Female,Heterosexual,50+,no,0,2,,
+2,US,"Legal, nonprofit",Large,476,Black or African American,Female,Heterosexual,40+,no,0,1,,
+2,US,"Legal, nonprofit",Large,477,White or Caucasian,Female,Heterosexual,30+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,478,Hispanic or Latinx,Male,Heterosexual,30+,no,0,1,,
+2,US,"Legal, nonprofit",Large,479,White or Caucasian,Female,Heterosexual,20+,no,0,2,,
+2,US,"Legal, nonprofit",Large,480,White or Caucasian,Female,Heterosexual,30+,prefer not to say,0,1,,
+2,US,"Legal, nonprofit",Large,481,White or Caucasian,Female,Heterosexual,40+,no,0,1,,
+2,US,"Legal, nonprofit",Large,482,Asian or Asian American,Female,Heterosexual,40+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,483,White or Caucasian,Female,Heterosexual,30+,no,0,0,,
+2,US,"Legal, nonprofit",Large,484,Asian or Asian American,Male,Heterosexual,30+,no,0,0,,
+2,US,"Legal, nonprofit",Large,485,White or Caucasian,"Other, Transgender",Queer,40+,invisible,0,2,,
+2,US,"Legal, nonprofit",Large,486,White or Caucasian,Male,Heterosexual,40+,visible,0,1,,
+2,US,"Legal, nonprofit",Large,487,White or Caucasian,Female,Heterosexual,40+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,488,White or Caucasian,Female,Heterosexual,50+,visible,0,0,,
+2,US,"Legal, nonprofit",Large,489,White or Caucasian,Female,Heterosexual,50+,no,0,1,,
+2,US,"Legal, nonprofit",Large,490,Prefer not to say,Female,Heterosexual,40+,prefer not to say,0,-1,,
+2,US,"Legal, nonprofit",Large,491,White or Caucasian,Female,Bisexual,40+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,492,White or Caucasian,Male,Heterosexual,60+,no,0,1,,
+2,US,"Legal, nonprofit",Large,493,Biracial or Mixed Race,Female,Heterosexual,60+,invisible,0,-1,,
+2,US,"Legal, nonprofit",Large,494,Black or African American,Female,Heterosexual,30+,no,0,1,,
+2,US,"Legal, nonprofit",Large,495,White or Caucasian,Female,Heterosexual,30+,invisible,0,-1,,
+2,US,"Legal, nonprofit",Large,496,White or Caucasian,Female,Heterosexual,30+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,497,Black or African American,Female,Heterosexual,50+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,498,White or Caucasian,Female,Heterosexual,50+,prefer not to say,0,1,,
+2,US,"Legal, nonprofit",Large,499,White or Caucasian,Female,Heterosexual,30+,invisible,0,1,,
+2,US,"Legal, nonprofit",Large,500,White or Caucasian,Male,Bisexual,30+,no,0,1,,
+2,US,"Legal, nonprofit",Large,501,White or Caucasian,Female,Heterosexual,70+,invisible,0,1,,
+2,US,"Legal, nonprofit",Large,502,Black or African American,Male,Heterosexual,30+,both,0,0,,
+2,US,"Legal, nonprofit",Large,503,White or Caucasian,Female,Heterosexual,60+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,505,White or Caucasian,Male,Heterosexual,30+,prefer not to say,0,1,,
+2,US,"Legal, nonprofit",Large,506,Black or African American,Female,Heterosexual,50+,no,0,1,,
+2,US,"Legal, nonprofit",Large,507,Hispanic or Latinx,Female,Heterosexual,30+,no,0,2,,
+2,US,"Legal, nonprofit",Large,508,Biracial or Mixed Race,Female,Gay/ Lesbian,50+,invisible,0,-1,,
+2,US,"Legal, nonprofit",Large,509,White or Caucasian,Male,Heterosexual,50+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,510,White or Caucasian,Male,Heterosexual,70+,no,0,2,,
+2,US,"Legal, nonprofit",Large,511,White or Caucasian,Female,Asexual,30+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,512,White or Caucasian,Female,Heterosexual,20+,invisible,0,-1,,
+2,US,"Legal, nonprofit",Large,513,White or Caucasian,Male,Heterosexual,30+,no,0,0,,
+2,US,"Legal, nonprofit",Large,514,White or Caucasian,Female,Heterosexual,50+,invisible,0,1,,
+2,US,"Legal, nonprofit",Large,515,Asian or Asian American,Male,Heterosexual,50+,invisible,0,2,,
+2,US,"Legal, nonprofit",Large,516,White or Caucasian,Female,Heterosexual,70+,no,0,2,,
+2,US,"Legal, nonprofit",Large,517,White or Caucasian,Female,Heterosexual,50+,invisible,0,0,,
+2,US,"Legal, nonprofit",Large,518,White or Caucasian,Male,Heterosexual,30+,visible,0,1,,
+2,US,"Legal, nonprofit",Large,519,Hispanic or Latinx,Female,Heterosexual,40+,prefer not to say,0,1,,
+2,US,"Legal, nonprofit",Large,520,Black or African American,Female,Heterosexual,50+,visible,0,1,,
+2,US,"Legal, nonprofit",Large,521,Black or African American,Female,Heterosexual,30+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,522,White or Caucasian,Female,Heterosexual,30+,no,0,1,,
+2,US,"Legal, nonprofit",Large,523,Asian or Asian American,Female,Heterosexual,40+,visible,0,0,,
+2,US,"Legal, nonprofit",Large,524,Asian or Asian American,Male,Heterosexual,40+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,525,White or Caucasian,Male,Heterosexual,40+,prefer not to say,0,2,,
+2,US,"Legal, nonprofit",Large,526,White or Caucasian,Female,Heterosexual,40+,no,0,0,,
+2,US,"Legal, nonprofit",Large,527,Prefer not to say,Female,Heterosexual,50+,prefer not to say,0,-1,,
+2,US,"Legal, nonprofit",Large,528,Asian or Asian American,Female,Heterosexual,50+,visible,0,-1,,
+2,US,"Legal, nonprofit",Large,529,White or Caucasian,Female,Heterosexual,30+,visible,0,1,,
+2,US,"Legal, nonprofit",Large,530,Black or African American,Male,Heterosexual,30+,no,0,2,,
+2,US,"Legal, nonprofit",Large,531,White or Caucasian,Female,Prefer not to say,70+,invisible,0,1,,
+2,US,"Legal, nonprofit",Large,532,Asian or Asian American,Prefer not to say,Heterosexual,50+,both,0,2,,
+2,US,"Legal, nonprofit",Large,533,Black or African American,Female,Heterosexual,40+,no,0,-1,,
+2,US,"Legal, nonprofit",Large,534,White or Caucasian,Female,Heterosexual,30+,invisible,0,1,,
+2,US,"Legal, nonprofit",Large,535,Middle Eastern,Female,Heterosexual,50+,both,0,1,,
+2,US,"Legal, nonprofit",Large,536,White or Caucasian,Male,Gay/ Lesbian,30+,visible,0,1,,
+2,US,"Legal, nonprofit",Large,537,Hispanic or Latinx,Female,Heterosexual,40+,no,0,1,,
+2,US,"Legal, nonprofit",Large,538,White or Caucasian,Female,Prefer not to say,40+,no,0,2,,
+3,US,Various,Missing,378,White or Caucasian,Female,Prefer not to say,30+,invisible,0,1,,
+3,US,Various,Missing,385,Middle Eastern,Female,Bisexual,30+,invisible,2,1,,
+3,US,Various,Missing,444,Asian or Asian American,Female,Heterosexual,40+,no,14,2,,
+3,US,Various,Missing,445,White or Caucasian,Male,Heterosexual,40+,no,1,0,,
+3,US,Various,Missing,446,White or Caucasian,Non-conforming,Prefer not to say,Prefer not to say,prefer not to say,0,2,,
+3,US,Various,Missing,449,Prefer not to say,Female,Heterosexual,30+,no,3,-1,,
+3,US,Various,Missing,450,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,0,,
+3,US,Various,Missing,451,White or Caucasian,Female,Bisexual,30+,no,2,1,,
+4,US,Medical,Missing,455,White or Caucasian,Female,Heterosexual,30+,prefer not to say,0,-2,,
+4,US,Medical,Missing,456,Middle Eastern,Female,Heterosexual,30+,visible,0,1,,
+4,US,Medical,Missing,457,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,2,,
+4,US,Medical,Missing,458,Asian or Asian American,Female,Heterosexual,30+,prefer not to say,0,1,,
+4,US,Medical,Missing,459,Hispanic or Latinx,Female,Heterosexual,40+,visible,0,1,,
+4,US,Medical,Missing,460,White or Caucasian,Female,Heterosexual,40+,prefer not to say,0,1,,
+4,US,Medical,Missing,461,White or Caucasian,Female,Prefer not to say,30+,prefer not to say,0,-2,,
+4,US,Medical,Missing,462,White or Caucasian,Female,Heterosexual,30+,prefer not to say,0,1,,
+4,US,Medical,Missing,463,Black or African American,Female,Heterosexual,20+,prefer not to say,0,1,,
+4,US,Medical,Missing,464,White or Caucasian,Male,Heterosexual,30+,prefer not to say,0,1,,
+5,UK,Travel & Hospitality,Missing,387,Asian or Asian American,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,0,,
+5,UK,Travel & Hospitality,Missing,389,White or Caucasian,Female,Heterosexual,50+,no,25,2,,
+5,UK,Travel & Hospitality,Missing,390,White or Caucasian,Female,Heterosexual,50+,invisible,14,0,,
+5,UK,Travel & Hospitality,Missing,391,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,1,,
+5,UK,Travel & Hospitality,Missing,392,White or Caucasian,Female,Heterosexual,40+,no,4,0,,
+5,UK,Travel & Hospitality,Missing,393,White or Caucasian,Female,Heterosexual,40+,no,9,-1,,
+5,UK,Travel & Hospitality,Missing,394,White or Caucasian,Male,Heterosexual,40+,no,8,2,,
+5,UK,Travel & Hospitality,Missing,395,White or Caucasian,Male,Heterosexual,30+,no,5,1,,
+5,UK,Travel & Hospitality,Missing,396,White or Caucasian,Female,Heterosexual,40+,no,19,1,,
+5,UK,Travel & Hospitality,Missing,397,White or Caucasian,Female,Heterosexual,20+,no,1,1,,
+5,UK,Travel & Hospitality,Missing,398,White or Caucasian,Female,Heterosexual,40+,no,1,2,,
+5,UK,Travel & Hospitality,Missing,399,White or Caucasian,Female,Heterosexual,40+,no,2,2,,
+5,UK,Travel & Hospitality,Missing,400,White or Caucasian,Female,Heterosexual,30+,invisible,2,1,,
+5,UK,Travel & Hospitality,Missing,401,White or Caucasian,Female,Heterosexual,40+,no,1,1,,
+5,UK,Travel & Hospitality,Missing,402,White or Caucasian,Female,Heterosexual,50+,no,4,2,,
+5,UK,Travel & Hospitality,Missing,403,White or Caucasian,Female,Heterosexual,50+,no,5,1,,
+5,UK,Travel & Hospitality,Missing,404,White or Caucasian,Female,Heterosexual,50+,no,4,-1,,
+5,UK,Travel & Hospitality,Missing,405,White or Caucasian,Female,Heterosexual,50+,invisible,20,-1,,
+5,UK,Travel & Hospitality,Missing,406,Asian or Asian American,Female,Heterosexual,40+,no,2,2,,
+5,UK,Travel & Hospitality,Missing,407,White or Caucasian,Female,Heterosexual,30+,no,5,-1,,
+5,UK,Travel & Hospitality,Missing,408,White or Caucasian,Female,Heterosexual,50+,no,21,1,,
+5,UK,Travel & Hospitality,Missing,409,White or Caucasian,Male,Gay/ Lesbian,30+,no,8,1,,
+5,UK,Travel & Hospitality,Missing,410,Asian or Asian American,Female,Heterosexual,30+,no,2,2,,
+5,UK,Travel & Hospitality,Missing,411,White or Caucasian,Female,Heterosexual,40+,prefer not to say,0,1,,
+5,UK,Travel & Hospitality,Missing,412,White or Caucasian,Male,Heterosexual,30+,no,7,-1,,
+5,UK,Travel & Hospitality,Missing,413,White or Caucasian,Female,Heterosexual,20+,no,1,1,,
+5,UK,Travel & Hospitality,Missing,414,White or Caucasian,Prefer not to say,Prefer not to say,30+,no,5,1,,
+5,UK,Travel & Hospitality,Missing,415,White or Caucasian,Female,Heterosexual,40+,no,2,1,,
+5,UK,Travel & Hospitality,Missing,416,White or Caucasian,Female,Heterosexual,40+,no,6,2,,
+5,UK,Travel & Hospitality,Missing,417,White or Caucasian,Female,Heterosexual,30+,no,1,1,,
+5,UK,Travel & Hospitality,Missing,418,White or Caucasian,Female,Asexual,20+,no,5,1,,
+5,UK,Travel & Hospitality,Missing,419,White or Caucasian,Female,Heterosexual,Prefer not to say,invisible,5,1,,
+5,UK,Travel & Hospitality,Missing,420,Biracial or Mixed Race,Female,Heterosexual,20+,no,1,1,,
+5,UK,Travel & Hospitality,Missing,421,White or Caucasian,Female,Heterosexual,40+,no,6,-1,,
+5,UK,Travel & Hospitality,Missing,422,White or Caucasian,Female,Heterosexual,30+,no,5,-1,,
+5,UK,Travel & Hospitality,Missing,423,Asian or Asian American,Female,Prefer not to say,30+,no,3,1,,
+5,UK,Travel & Hospitality,Missing,424,White or Caucasian,Female,Bisexual,20+,no,7,1,,
+5,UK,Travel & Hospitality,Missing,425,White or Caucasian,Female,Heterosexual,30+,invisible,0,1,,
+5,UK,Travel & Hospitality,Missing,426,White or Caucasian,Female,Heterosexual,30+,no,2,2,,
+5,UK,Travel & Hospitality,Missing,427,Black or African American,Female,Heterosexual,40+,no,9,0,,
+5,UK,Travel & Hospitality,Missing,428,White or Caucasian,Female,Heterosexual,50+,no,13,2,,
+5,UK,Travel & Hospitality,Missing,429,White or Caucasian,Female,Heterosexual,40+,no,10,1,,
+5,UK,Travel & Hospitality,Missing,430,White or Caucasian,Female,Heterosexual,40+,no,3,1,,
+5,UK,Travel & Hospitality,Missing,431,Black or African American,Prefer not to say,Prefer not to say,50+,prefer not to say,6,0,,
+5,UK,Travel & Hospitality,Missing,432,Prefer not to say,Prefer not to say,Prefer not to say,50+,prefer not to say,6,0,,
+5,UK,Travel & Hospitality,Missing,433,White or Caucasian,Female,Heterosexual,40+,no,2,1,,
+5,UK,Travel & Hospitality,Missing,434,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,1,,
+5,UK,Travel & Hospitality,Missing,435,White or Caucasian,Female,Heterosexual,40+,invisible,4,-1,,
+5,UK,Travel & Hospitality,Missing,436,Black or African American,Female,Heterosexual,40+,no,9,0,,
+5,UK,Travel & Hospitality,Missing,437,White or Caucasian,Prefer not to say,Prefer not to say,50+,no,6,0,,
+5,UK,Travel & Hospitality,Missing,438,White or Caucasian,Female,Heterosexual,50+,invisible,20,2,,
+5,UK,Travel & Hospitality,Missing,439,Prefer not to say,Non-binary,Heterosexual,20+,invisible,10,2,,
+6,US,Various,Missing,544,Asian or Asian American,Female,Bisexual,30+,no,0,1,,
+6,US,Various,Missing,545,White or Caucasian,Female,Heterosexual,60+,invisible,0,2,,
+6,US,Various,Missing,546,White or Caucasian,Female,Heterosexual,40+,no,0,2,,
+6,US,Various,Missing,547,Hispanic or Latinx,Female,Heterosexual,40+,no,0,1,,
+6,US,Various,Missing,548,Biracial or Mixed Race,Female,Queer,30+,invisible,0,1,,
+6,US,Various,Missing,549,Black or African American,Female,Heterosexual,50+,visible,0,2,,
+6,US,Various,Missing,550,Black or African American,Male,Bisexual,30+,no,0,1,,
+6,US,Various,Missing,551,Black or African American,Female,Heterosexual,40+,no,0,1,,
+6,US,Various,Missing,552,Asian or Asian American,Female,Heterosexual,20+,no,0,1,,
+6,US,Various,Missing,553,White or Caucasian,Female,Prefer not to say,50+,invisible,0,1,,
+6,US,Various,Missing,554,Biracial or Mixed Race,Female,Queer,30+,invisible,0,-2,,
+6,US,Various,Missing,555,White or Caucasian,Female,Heterosexual,20+,no,0,1,,
+6,US,Various,Missing,556,Asian or Asian American,Male,Gay/ Lesbian,60+,invisible,0,0,,
+6,US,Various,Missing,557,White or Caucasian,Female,Heterosexual,40+,invisible,0,0,,
+6,US,Various,Missing,558,Asian or Asian American,Male,Gay/ Lesbian,30+,no,0,1,,
+6,US,Various,Missing,559,Black or African American,Female,Heterosexual,60+,no,0,2,,
+6,US,Various,Missing,560,Hispanic or Latinx,Non-binary,Queer,50+,invisible,0,-2,,
+6,US,Various,Missing,561,White or Caucasian,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,562,Biracial or Mixed Race,Female,Heterosexual,30+,invisible,0,-1,,
+6,US,Various,Missing,563,Black or African American,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,564,White or Caucasian,Female,Heterosexual,30+,no,0,2,,
+6,US,Various,Missing,565,White or Caucasian,Male,Heterosexual,50+,no,0,2,,
+6,US,Various,Missing,566,Black or African American,Female,Heterosexual,30+,invisible,0,-1,,
+6,US,Various,Missing,567,White or Caucasian,Female,Gay/ Lesbian,60+,invisible,0,1,,
+6,US,Various,Missing,568,White or Caucasian,Female,Heterosexual,40+,no,0,1,,
+6,US,Various,Missing,569,Asian or Asian American,Male,Gay/ Lesbian,30+,no,0,1,,
+6,US,Various,Missing,570,White or Caucasian,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,571,Asian or Asian American,Female,Heterosexual,20+,invisible,0,1,,
+6,US,Various,Missing,572,Black or African American,Female,Prefer not to say,60+,no,0,2,,
+6,US,Various,Missing,573,White or Caucasian,Female,Heterosexual,40+,no,0,2,,
+6,US,Various,Missing,574,Black or African American,Female,Heterosexual,40+,no,0,1,,
+6,US,Various,Missing,575,White or Caucasian,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,576,White or Caucasian,Female,Heterosexual,60+,no,0,2,,
+6,US,Various,Missing,577,White or Caucasian,Male,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,578,White or Caucasian,Female,Heterosexual,40+,invisible,0,0,,
+6,US,Various,Missing,579,White or Caucasian,Female,Heterosexual,40+,invisible,0,1,,
+6,US,Various,Missing,580,Biracial or Mixed Race,Female,Heterosexual,30+,invisible,0,1,,
+6,US,Various,Missing,581,Hispanic or Latinx,Female,Heterosexual,20+,invisible,0,1,,
+6,US,Various,Missing,582,White or Caucasian,Female,Heterosexual,20+,invisible,0,1,,
+6,US,Various,Missing,583,White or Caucasian,Female,Heterosexual,50+,no,0,1,,
+6,US,Various,Missing,584,Hispanic or Latinx,Female,Heterosexual,40+,invisible,0,1,,
+6,US,Various,Missing,585,White or Caucasian,Female,Heterosexual,40+,no,0,2,,
+6,US,Various,Missing,586,Asian or Asian American,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,587,Asian or Asian American,Female,Heterosexual,50+,no,0,1,,
+6,US,Various,Missing,588,Hispanic or Latinx,Female,Prefer not to say,50+,invisible,0,-1,,
+6,US,Various,Missing,589,Biracial or Mixed Race,Female,Heterosexual,30+,no,0,-2,,
+6,US,Various,Missing,590,White or Caucasian,Female,Heterosexual,30+,invisible,0,2,,
+6,US,Various,Missing,591,Black or African American,Female,Gay/ Lesbian,30+,invisible,0,1,,
+6,US,Various,Missing,592,Hispanic or Latinx,Female,Heterosexual,50+,no,0,-1,,
+6,US,Various,Missing,593,White or Caucasian,Female,Bisexual,30+,invisible,0,-2,,
+6,US,Various,Missing,594,Black or African American,Female,Prefer not to say,60+,no,0,2,,
+7,US,Financial Services,Medium,6,White or Caucasian,Male,Gay/ Lesbian,40+,no,2,2,,
+7,US,Financial Services,Medium,7,White or Caucasian,Male,Heterosexual,50+,no,17,2,,
+7,US,Financial Services,Medium,8,White or Caucasian,Female,Heterosexual,40+,no,1,2,,
+7,US,Financial Services,Medium,9,Black or African American,Female,Heterosexual,40+,no,11,2,,
+7,US,Financial Services,Medium,10,White or Caucasian,Male,Heterosexual,50+,no,9,2,,
+7,US,Financial Services,Medium,11,White or Caucasian,Male,Heterosexual,50+,no,20,1,,
+7,US,Financial Services,Medium,12,White or Caucasian,Female,Heterosexual,50+,invisible,5,2,,
+7,US,Financial Services,Medium,13,Hispanic or Latinx,Female,Heterosexual,40+,no,9,2,,
+7,US,Financial Services,Medium,14,White or Caucasian,Female,Heterosexual,50+,invisible,5,-2,,
+7,US,Financial Services,Medium,15,White or Caucasian,Male,Heterosexual,60+,no,5,1,,
+7,US,Financial Services,Medium,16,Hispanic or Latinx,Female,Heterosexual,60+,no,12,0,,
+7,US,Financial Services,Medium,17,Asian or Asian American,Female,Heterosexual,40+,no,9,1,,
+7,US,Financial Services,Medium,18,White or Caucasian,Male,Heterosexual,60+,no,5,1,,
+7,US,Financial Services,Medium,19,White or Caucasian,Female,Heterosexual,40+,no,18,1,,
+7,US,Financial Services,Medium,20,Black or African American,Female,Heterosexual,50+,no,20,-1,,
+7,US,Financial Services,Medium,21,Black or African American,Female,Heterosexual,30+,invisible,13,1,,
+7,US,Financial Services,Medium,22,Hispanic or Latinx,Female,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,23,White or Caucasian,Female,Prefer not to say,40+,no,1,2,,
+7,US,Financial Services,Medium,24,Asian or Asian American,Female,Heterosexual,50+,no,20,1,,
+7,US,Financial Services,Medium,25,Hispanic or Latinx,Female,Heterosexual,40+,no,6,0,,
+7,US,Financial Services,Medium,26,Black or African American,Female,Heterosexual,30+,no,2,0,,
+7,US,Financial Services,Medium,27,Black or African American,Female,Heterosexual,40+,no,2,0,,
+7,US,Financial Services,Medium,28,White or Caucasian,Female,Heterosexual,50+,no,32,2,,
+7,US,Financial Services,Medium,30,White or Caucasian,Female,Heterosexual,40+,no,1,2,,
+7,US,Financial Services,Medium,39,White or Caucasian,Female,Heterosexual,30+,no,1,1,,
+7,US,Financial Services,Medium,40,White or Caucasian,Male,Heterosexual,30+,invisible,5,1,,
+7,US,Financial Services,Medium,41,Hispanic or Latinx,Female,Heterosexual,30+,invisible,5,1,,
+7,US,Financial Services,Medium,42,White or Caucasian,Male,Heterosexual,40+,invisible,3,2,,
+7,US,Financial Services,Medium,43,White or Caucasian,Female,Heterosexual,40+,both,3,1,,
+7,US,Financial Services,Medium,44,White or Caucasian,Female,Heterosexual,40+,invisible,14,2,,
+7,US,Financial Services,Medium,45,White or Caucasian,Female,Heterosexual,40+,no,13,1,,
+7,US,Financial Services,Medium,46,Black or African American,Female,Heterosexual,30+,no,2,0,,
+7,US,Financial Services,Medium,47,Hispanic or Latinx,Male,Heterosexual,40+,no,6,-1,,
+7,US,Financial Services,Medium,48,Asian or Asian American,Female,Heterosexual,40+,no,24,1,,
+7,US,Financial Services,Medium,49,White or Caucasian,Female,Heterosexual,40+,no,5,2,,
+7,US,Financial Services,Medium,50,Middle Eastern,Male,Heterosexual,30+,no,1,1,,
+7,US,Financial Services,Medium,51,Asian or Asian American,Male,Heterosexual,50+,no,15,1,,
+7,US,Financial Services,Medium,52,White or Caucasian,Male,Heterosexual,60+,no,2,2,,
+7,US,Financial Services,Medium,53,White or Caucasian,Female,Heterosexual,20+,no,6,1,,
+7,US,Financial Services,Medium,54,Black or African American,Female,Heterosexual,20+,no,1,2,,
+7,US,Financial Services,Medium,55,Black or African American,Male,Heterosexual,40+,no,9,2,,
+7,US,Financial Services,Medium,56,White or Caucasian,Male,Heterosexual,40+,no,17,2,,
+7,US,Financial Services,Medium,57,White or Caucasian,Male,Heterosexual,50+,no,9,1,,
+7,US,Financial Services,Medium,58,White or Caucasian,Male,Heterosexual,50+,no,13,1,,
+7,US,Financial Services,Medium,59,Middle Eastern,Female,Heterosexual,30+,invisible,8,0,,
+7,US,Financial Services,Medium,60,Middle Eastern,Male,Heterosexual,40+,no,18,1,,
+7,US,Financial Services,Medium,61,White or Caucasian,Female,Heterosexual,40+,no,10,1,,
+7,US,Financial Services,Medium,62,Black or African American,Male,Heterosexual,30+,invisible,9,1,,
+7,US,Financial Services,Medium,63,Black or African American,Female,Heterosexual,40+,no,1,1,,
+7,US,Financial Services,Medium,64,Black or African American,Female,Heterosexual,40+,no,6,-2,,
+7,US,Financial Services,Medium,65,Asian or Asian American,Female,Prefer not to say,50+,prefer not to say,18,1,,
+7,US,Financial Services,Medium,66,White or Caucasian,Female,Heterosexual,50+,no,0,0,,
+7,US,Financial Services,Medium,67,White or Caucasian,Female,Heterosexual,20+,no,5,1,,
+7,US,Financial Services,Medium,68,Asian or Asian American,Female,Asexual,30+,no,3,1,,
+7,US,Financial Services,Medium,69,White or Caucasian,Female,Heterosexual,50+,no,18,0,,
+7,US,Financial Services,Medium,70,White or Caucasian,Male,Heterosexual,40+,no,15,1,,
+7,US,Financial Services,Medium,71,Black or African American,Female,Heterosexual,30+,no,1,0,,
+7,US,Financial Services,Medium,72,Asian or Asian American,Male,Gay/ Lesbian,20+,no,3,1,,
+7,US,Financial Services,Medium,73,White or Caucasian,Female,Heterosexual,40+,no,23,1,,
+7,US,Financial Services,Medium,74,White or Caucasian,Female,Heterosexual,40+,no,12,2,,
+7,US,Financial Services,Medium,75,White or Caucasian,Female,Heterosexual,50+,no,15,-2,,
+7,US,Financial Services,Medium,76,Asian or Asian American,Male,Heterosexual,40+,no,4,1,,
+7,US,Financial Services,Medium,77,Black or African American,Female,Heterosexual,50+,no,11,1,,
+7,US,Financial Services,Medium,78,Black or African American,Male,Heterosexual,30+,no,7,1,,
+7,US,Financial Services,Medium,79,White or Caucasian,Female,Heterosexual,50+,no,20,1,,
+7,US,Financial Services,Medium,80,White or Caucasian,Male,Heterosexual,60+,invisible,3,2,,
+7,US,Financial Services,Medium,81,Asian or Asian American,Female,Heterosexual,20+,no,2,1,,
+7,US,Financial Services,Medium,82,Asian or Asian American,Female,Heterosexual,30+,no,4,2,,
+7,US,Financial Services,Medium,83,White or Caucasian,Male,Heterosexual,40+,no,2,2,,
+7,US,Financial Services,Medium,84,White or Caucasian,Female,Heterosexual,50+,no,10,2,,
+7,US,Financial Services,Medium,85,Hispanic or Latinx,Female,Prefer not to say,40+,invisible,9,1,,
+7,US,Financial Services,Medium,86,White or Caucasian,Female,Heterosexual,50+,no,32,1,,
+7,US,Financial Services,Medium,87,White or Caucasian,Female,Heterosexual,50+,no,24,-1,,
+7,US,Financial Services,Medium,88,White or Caucasian,Female,Heterosexual,40+,invisible,3,1,,
+7,US,Financial Services,Medium,89,Black or African American,Female,Heterosexual,30+,no,15,1,,
+7,US,Financial Services,Medium,90,White or Caucasian,Male,Heterosexual,50+,no,19,1,,
+7,US,Financial Services,Medium,91,White or Caucasian,Female,Heterosexual,40+,invisible,10,-1,,
+7,US,Financial Services,Medium,92,White or Caucasian,Male,Heterosexual,50+,no,32,2,,
+7,US,Financial Services,Medium,93,White or Caucasian,Female,Heterosexual,30+,no,7,1,,
+7,US,Financial Services,Medium,94,White or Caucasian,Male,Heterosexual,50+,no,19,1,,
+7,US,Financial Services,Medium,95,White or Caucasian,Female,Bisexual,40+,invisible,20,1,,
+7,US,Financial Services,Medium,96,White or Caucasian,Male,Heterosexual,20+,invisible,1,1,,
+7,US,Financial Services,Medium,97,Prefer not to say,Female,Prefer not to say,50+,no,0,0,,
+7,US,Financial Services,Medium,98,White or Caucasian,Male,Heterosexual,40+,no,16,1,,
+7,US,Financial Services,Medium,99,White or Caucasian,Male,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,100,White or Caucasian,Male,Heterosexual,50+,invisible,21,2,,
+7,US,Financial Services,Medium,101,White or Caucasian,Male,Heterosexual,60+,no,22,1,,
+7,US,Financial Services,Medium,102,Black or African American,Prefer not to say,Prefer not to say,50+,no,16,0,,
+7,US,Financial Services,Medium,103,Black or African American,Female,Heterosexual,40+,invisible,10,-1,,
+7,US,Financial Services,Medium,104,White or Caucasian,Female,Heterosexual,30+,no,12,-1,,
+7,US,Financial Services,Medium,105,White or Caucasian,Female,Heterosexual,50+,no,4,1,,
+7,US,Financial Services,Medium,106,White or Caucasian,Male,Heterosexual,40+,no,22,2,,
+7,US,Financial Services,Medium,107,White or Caucasian,Female,Heterosexual,30+,invisible,8,1,,
+7,US,Financial Services,Medium,108,Asian or Asian American,Female,Heterosexual,20+,no,6,1,,
+7,US,Financial Services,Medium,109,Black or African American,Female,Heterosexual,50+,no,17,1,,
+7,US,Financial Services,Medium,110,White or Caucasian,Prefer not to say,Prefer not to say,40+,no,5,1,,
+7,US,Financial Services,Medium,111,Black or African American,Female,Bisexual,60+,invisible,8,1,,
+7,US,Financial Services,Medium,112,White or Caucasian,Male,Heterosexual,40+,no,5,2,,
+7,US,Financial Services,Medium,113,Hispanic or Latinx,Female,Heterosexual,30+,no,1,2,,
+7,US,Financial Services,Medium,114,White or Caucasian,Male,Heterosexual,50+,no,23,1,,
+7,US,Financial Services,Medium,115,White or Caucasian,Female,Gay/ Lesbian,60+,no,20,1,,
+7,US,Financial Services,Medium,116,White or Caucasian,Female,Prefer not to say,50+,no,10,1,,
+7,US,Financial Services,Medium,117,White or Caucasian,Male,Heterosexual,30+,no,13,2,,
+7,US,Financial Services,Medium,118,Hispanic or Latinx,Female,Heterosexual,30+,no,7,2,,
+7,US,Financial Services,Medium,119,Hispanic or Latinx,Female,Heterosexual,50+,invisible,18,-1,,
+7,US,Financial Services,Medium,120,White or Caucasian,Female,Heterosexual,50+,no,22,1,,
+7,US,Financial Services,Medium,121,Black or African American,Female,Heterosexual,40+,no,20,0,,
+7,US,Financial Services,Medium,122,White or Caucasian,Female,Heterosexual,30+,invisible,3,-2,,
+7,US,Financial Services,Medium,123,White or Caucasian,Female,Bisexual,30+,invisible,0,1,,
+7,US,Financial Services,Medium,124,White or Caucasian,Male,Heterosexual,50+,no,5,2,,
+7,US,Financial Services,Medium,125,White or Caucasian,Female,Gay/ Lesbian,30+,no,5,1,,
+7,US,Financial Services,Medium,126,White or Caucasian,Female,Heterosexual,20+,no,6,1,,
+7,US,Financial Services,Medium,127,White or Caucasian,Female,Heterosexual,60+,no,5,1,,
+7,US,Financial Services,Medium,128,Middle Eastern,Female,Heterosexual,30+,invisible,5,2,,
+7,US,Financial Services,Medium,129,Black or African American,Female,Heterosexual,40+,no,13,1,,
+7,US,Financial Services,Medium,130,White or Caucasian,Female,Heterosexual,30+,no,10,2,,
+7,US,Financial Services,Medium,131,White or Caucasian,Female,Heterosexual,30+,no,7,1,,
+7,US,Financial Services,Medium,132,Black or African American,Female,Gay/ Lesbian,50+,invisible,15,0,,
+7,US,Financial Services,Medium,133,Black or African American,Male,Heterosexual,30+,no,2,1,,
+7,US,Financial Services,Medium,134,White or Caucasian,Female,Bisexual,30+,no,18,1,,
+7,US,Financial Services,Medium,135,Black or African American,Female,Heterosexual,50+,invisible,25,0,,
+7,US,Financial Services,Medium,136,Black or African American,Female,Heterosexual,40+,no,24,1,,
+7,US,Financial Services,Medium,137,Asian or Asian American,Female,Heterosexual,30+,no,0,2,,
+7,US,Financial Services,Medium,138,Black or African American,Female,Heterosexual,50+,no,4,-2,,
+7,US,Financial Services,Medium,139,Asian or Asian American,Female,Heterosexual,50+,no,15,-1,,
+7,US,Financial Services,Medium,141,Black or African American,Male,Heterosexual,50+,no,15,2,,
+7,US,Financial Services,Medium,142,White or Caucasian,Male,Heterosexual,40+,no,16,2,,
+7,US,Financial Services,Medium,143,White or Caucasian,Male,Heterosexual,50+,no,8,1,,
+7,US,Financial Services,Medium,144,White or Caucasian,Male,Heterosexual,40+,no,5,2,,
+7,US,Financial Services,Medium,145,Black or African American,Female,Heterosexual,50+,invisible,33,0,,
+7,US,Financial Services,Medium,146,White or Caucasian,Female,Heterosexual,30+,no,9,2,,
+7,US,Financial Services,Medium,147,White or Caucasian,Male,Heterosexual,50+,no,10,2,,
+7,US,Financial Services,Medium,148,Black or African American,Female,Heterosexual,50+,invisible,25,-1,,
+7,US,Financial Services,Medium,149,White or Caucasian,Female,Heterosexual,50+,no,0,1,,
+7,US,Financial Services,Medium,150,Hispanic or Latinx,Male,Heterosexual,40+,no,12,2,,
+7,US,Financial Services,Medium,151,White or Caucasian,Female,Heterosexual,50+,no,30,1,,
+7,US,Financial Services,Medium,152,White or Caucasian,Male,Heterosexual,40+,no,7,1,,
+7,US,Financial Services,Medium,153,Black or African American,Female,Heterosexual,30+,no,3,2,,
+7,US,Financial Services,Medium,154,Black or African American,Female,Heterosexual,40+,no,8,0,,
+7,US,Financial Services,Medium,155,White or Caucasian,Male,Heterosexual,40+,no,20,-1,,
+7,US,Financial Services,Medium,156,White or Caucasian,Male,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,157,Black or African American,Male,Heterosexual,50+,no,19,1,,
+7,US,Financial Services,Medium,158,White or Caucasian,Male,Heterosexual,60+,invisible,21,1,,
+7,US,Financial Services,Medium,159,Prefer not to say,Female,Prefer not to say,50+,no,20,1,,
+7,US,Financial Services,Medium,160,Hispanic or Latinx,Female,Prefer not to say,50+,no,2,-2,,
+7,US,Financial Services,Medium,161,Black or African American,Female,Prefer not to say,50+,no,16,1,,
+7,US,Financial Services,Medium,162,White or Caucasian,Male,Heterosexual,40+,no,24,1,,
+7,US,Financial Services,Medium,163,White or Caucasian,Female,Heterosexual,60+,no,9,1,,
+7,US,Financial Services,Medium,164,White or Caucasian,Male,Heterosexual,50+,no,22,1,,
+7,US,Financial Services,Medium,165,Black or African American,Female,Heterosexual,50+,no,13,-1,,
+7,US,Financial Services,Medium,166,Asian or Asian American,Male,Heterosexual,50+,no,15,0,,
+7,US,Financial Services,Medium,167,White or Caucasian,Female,Heterosexual,50+,no,30,2,,
+7,US,Financial Services,Medium,168,White or Caucasian,Male,Heterosexual,50+,both,20,0,,
+7,US,Financial Services,Medium,169,Black or African American,Female,Heterosexual,40+,no,7,2,,
+7,US,Financial Services,Medium,170,White or Caucasian,Male,Heterosexual,40+,no,17,1,,
+7,US,Financial Services,Medium,171,Hispanic or Latinx,Male,Heterosexual,50+,invisible,9,1,,
+7,US,Financial Services,Medium,172,White or Caucasian,Female,Heterosexual,50+,no,0,1,,
+7,US,Financial Services,Medium,173,Black or African American,Female,Heterosexual,50+,invisible,25,-1,,
+7,US,Financial Services,Medium,174,White or Caucasian,Female,Heterosexual,40+,no,8,2,,
+7,US,Financial Services,Medium,175,White or Caucasian,Male,Heterosexual,50+,no,9,1,,
+7,US,Financial Services,Medium,176,Hispanic or Latinx,Non-conforming,Pansexual,30+,no,0,0,,
+7,US,Financial Services,Medium,177,Prefer not to say,Male,Heterosexual,40+,no,19,2,,
+7,US,Financial Services,Medium,178,Black or African American,Female,Heterosexual,40+,no,15,1,,
+7,US,Financial Services,Medium,179,Black or African American,Female,Heterosexual,50+,invisible,25,-1,,
+7,US,Financial Services,Medium,180,Black or African American,Female,Asexual,60+,no,0,2,,
+7,US,Financial Services,Medium,181,Asian or Asian American,Female,Heterosexual,30+,invisible,0,-1,,
+7,US,Financial Services,Medium,182,White or Caucasian,Female,Heterosexual,50+,no,27,0,,
+7,US,Financial Services,Medium,183,White or Caucasian,Female,Heterosexual,50+,invisible,10,1,,
+7,US,Financial Services,Medium,184,Asian or Asian American,Male,Heterosexual,40+,no,4,1,,
+7,US,Financial Services,Medium,185,White or Caucasian,Female,Heterosexual,60+,no,9,1,,
+7,US,Financial Services,Medium,186,Black or African American,Female,Heterosexual,60+,no,26,0,,
+7,US,Financial Services,Medium,187,White or Caucasian,Female,Heterosexual,60+,no,5,1,,
+7,US,Financial Services,Medium,188,White or Caucasian,Female,Heterosexual,60+,no,9,1,,
+7,US,Financial Services,Medium,189,Black or African American,Female,Heterosexual,50+,no,4,-2,,
+7,US,Financial Services,Medium,190,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,-2,,
+7,US,Financial Services,Medium,191,Black or African American,Female,Heterosexual,40+,no,7,1,,
+7,US,Financial Services,Medium,192,White or Caucasian,Female,Heterosexual,60+,no,9,1,,
+7,US,Financial Services,Medium,193,Black or African American,Female,Heterosexual,40+,no,15,1,,
+7,US,Financial Services,Medium,195,Black or African American,Female,Heterosexual,50+,prefer not to say,21,-1,,
+7,US,Financial Services,Medium,201,White or Caucasian,Female,Heterosexual,50+,no,7,2,,
+7,US,Financial Services,Medium,202,White or Caucasian,Female,Heterosexual,30+,no,1,2,,
+7,US,Financial Services,Medium,203,White or Caucasian,Female,Heterosexual,40+,no,1,1,,
+7,US,Financial Services,Medium,204,White or Caucasian,Female,Heterosexual,40+,no,10,1,,
+7,US,Financial Services,Medium,205,White or Caucasian,Male,Asexual,50+,no,7,2,,
+7,US,Financial Services,Medium,206,White or Caucasian,Female,Heterosexual,30+,no,10,1,,
+7,US,Financial Services,Medium,207,Black or African American,Female,Heterosexual,30+,no,0,1,,
+7,US,Financial Services,Medium,208,Hispanic or Latinx,Male,Heterosexual,40+,no,10,2,,
+7,US,Financial Services,Medium,209,Hispanic or Latinx,Female,Heterosexual,20+,invisible,2,1,,
+7,US,Financial Services,Medium,210,White or Caucasian,Female,Heterosexual,40+,no,1,-1,,
+7,US,Financial Services,Medium,211,White or Caucasian,Female,Heterosexual,30+,no,5,0,,
+7,US,Financial Services,Medium,212,White or Caucasian,Female,Heterosexual,30+,invisible,9,1,,
+7,US,Financial Services,Medium,213,White or Caucasian,Female,Heterosexual,40+,no,22,1,,
+7,US,Financial Services,Medium,214,Asian or Asian American,Male,Heterosexual,40+,no,8,1,,
+7,US,Financial Services,Medium,215,Hispanic or Latinx,Male,Heterosexual,30+,no,2,1,,
+7,US,Financial Services,Medium,216,White or Caucasian,Female,Prefer not to say,30+,invisible,2,2,,
+7,US,Financial Services,Medium,217,Hispanic or Latinx,Female,Bisexual,30+,no,6,-1,,
+7,US,Financial Services,Medium,218,White or Caucasian,Female,Heterosexual,30+,no,9,1,,
+7,US,Financial Services,Medium,219,White or Caucasian,Male,Heterosexual,30+,no,1,1,,
+7,US,Financial Services,Medium,220,White or Caucasian,Male,Gay/ Lesbian,30+,no,18,2,,
+7,US,Financial Services,Medium,221,Asian or Asian American,Male,Heterosexual,40+,no,1,1,,
+7,US,Financial Services,Medium,222,White or Caucasian,Male,Heterosexual,40+,no,9,1,,
+7,US,Financial Services,Medium,223,Asian or Asian American,Male,Heterosexual,40+,no,10,-1,,
+7,US,Financial Services,Medium,224,Black or African American,Male,Asexual,40+,no,15,1,,
+7,US,Financial Services,Medium,225,White or Caucasian,Female,Heterosexual,20+,no,0,2,,
+7,US,Financial Services,Medium,226,White or Caucasian,Female,Heterosexual,40+,no,4,0,,
+7,US,Financial Services,Medium,227,White or Caucasian,Female,Heterosexual,20+,no,1,1,,
+7,US,Financial Services,Medium,228,White or Caucasian,Male,Heterosexual,40+,no,24,-2,,
+7,US,Financial Services,Medium,229,Asian or Asian American,Female,Heterosexual,50+,no,16,2,,
+7,US,Financial Services,Medium,230,Asian or Asian American,Male,Heterosexual,40+,no,20,-1,,
+7,US,Financial Services,Medium,231,Black or African American,Female,Heterosexual,40+,no,4,2,,
+7,US,Financial Services,Medium,232,White or Caucasian,Male,Heterosexual,50+,no,15,2,,
+7,US,Financial Services,Medium,233,White or Caucasian,Male,Heterosexual,30+,no,10,0,,
+7,US,Financial Services,Medium,234,Hispanic or Latinx,Male,Heterosexual,50+,no,15,2,,
+7,US,Financial Services,Medium,235,Black or African American,Female,Heterosexual,30+,no,2,1,,
+7,US,Financial Services,Medium,236,White or Caucasian,Female,Heterosexual,20+,no,1,2,,
+7,US,Financial Services,Medium,237,White or Caucasian,Female,Heterosexual,30+,no,6,0,,
+7,US,Financial Services,Medium,238,White or Caucasian,Female,Heterosexual,50+,no,3,0,,
+7,US,Financial Services,Medium,239,White or Caucasian,Female,Heterosexual,40+,no,8,2,,
+7,US,Financial Services,Medium,240,Asian or Asian American,Female,Prefer not to say,30+,no,4,0,,
+7,US,Financial Services,Medium,241,White or Caucasian,Male,Heterosexual,40+,no,8,0,,
+7,US,Financial Services,Medium,242,White or Caucasian,Male,Heterosexual,40+,no,4,2,,
+7,US,Financial Services,Medium,243,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,10,2,,
+7,US,Financial Services,Medium,244,Biracial or Mixed Race,Female,Heterosexual,20+,no,2,1,,
+7,US,Financial Services,Medium,245,Prefer not to say,Male,Heterosexual,60+,no,10,1,,
+7,US,Financial Services,Medium,246,White or Caucasian,Female,Gay/ Lesbian,40+,no,1,2,,
+7,US,Financial Services,Medium,247,Biracial or Mixed Race,Female,Heterosexual,50+,no,25,1,,
+7,US,Financial Services,Medium,248,White or Caucasian,Female,Heterosexual,60+,no,21,0,,
+7,US,Financial Services,Medium,249,White or Caucasian,Female,Heterosexual,40+,invisible,17,2,,
+7,US,Financial Services,Medium,250,Black or African American,Male,Heterosexual,40+,no,12,-1,,
+7,US,Financial Services,Medium,251,White or Caucasian,Female,Heterosexual,40+,no,19,2,,
+7,US,Financial Services,Medium,252,White or Caucasian,Male,Heterosexual,50+,invisible,15,1,,
+7,US,Financial Services,Medium,253,White or Caucasian,Male,Heterosexual,30+,no,5,1,,
+7,US,Financial Services,Medium,254,White or Caucasian,Male,Heterosexual,50+,no,22,1,,
+7,US,Financial Services,Medium,255,White or Caucasian,Male,Heterosexual,50+,invisible,7,0,,
+7,US,Financial Services,Medium,256,White or Caucasian,Female,Heterosexual,50+,no,12,2,,
+7,US,Financial Services,Medium,257,White or Caucasian,Male,Heterosexual,30+,no,6,0,,
+7,US,Financial Services,Medium,258,Black or African American,Female,Heterosexual,50+,no,24,1,,
+7,US,Financial Services,Medium,259,Black or African American,Female,Heterosexual,40+,no,16,-2,,
+7,US,Financial Services,Medium,260,Black or African American,Female,Heterosexual,40+,no,24,1,,
+7,US,Financial Services,Medium,261,White or Caucasian,Female,Heterosexual,20+,no,1,1,,
+7,US,Financial Services,Medium,262,White or Caucasian,Female,Heterosexual,50+,no,7,1,,
+7,US,Financial Services,Medium,263,White or Caucasian,Male,Heterosexual,30+,no,4,1,,
+7,US,Financial Services,Medium,264,White or Caucasian,Male,Gay/ Lesbian,20+,no,2,2,,
+7,US,Financial Services,Medium,265,White or Caucasian,Female,Heterosexual,40+,no,4,1,,
+7,US,Financial Services,Medium,266,White or Caucasian,Female,Heterosexual,50+,no,17,1,,
+7,US,Financial Services,Medium,267,White or Caucasian,Male,Heterosexual,20+,no,3,1,,
+7,US,Financial Services,Medium,268,White or Caucasian,Female,Heterosexual,30+,no,5,1,,
+7,US,Financial Services,Medium,269,White or Caucasian,Female,Heterosexual,30+,no,11,1,,
+7,US,Financial Services,Medium,270,White or Caucasian,Male,Heterosexual,40+,invisible,1,2,,
+7,US,Financial Services,Medium,271,Hispanic or Latinx,Male,Heterosexual,20+,no,0,2,,
+7,US,Financial Services,Medium,272,White or Caucasian,Female,Heterosexual,50+,no,21,1,,
+7,US,Financial Services,Medium,273,White or Caucasian,Male,Gay/ Lesbian,30+,no,2,1,,
+7,US,Financial Services,Medium,274,White or Caucasian,Female,Heterosexual,40+,no,13,-1,,
+7,US,Financial Services,Medium,275,White or Caucasian,Male,Heterosexual,50+,no,20,0,,
+7,US,Financial Services,Medium,276,White or Caucasian,Male,Heterosexual,40+,no,14,1,,
+7,US,Financial Services,Medium,277,White or Caucasian,Female,Bisexual,20+,no,2,1,,
+7,US,Financial Services,Medium,278,White or Caucasian,Male,Heterosexual,40+,no,5,2,,
+7,US,Financial Services,Medium,279,White or Caucasian,Female,Heterosexual,30+,no,0,2,,
+7,US,Financial Services,Medium,280,White or Caucasian,Female,Heterosexual,40+,prefer not to say,9,1,,
+7,US,Financial Services,Medium,281,White or Caucasian,Male,Heterosexual,50+,no,7,2,,
+7,US,Financial Services,Medium,282,Black or African American,Female,Heterosexual,40+,no,0,1,,
+7,US,Financial Services,Medium,283,White or Caucasian,Prefer not to say,Prefer not to say,50+,no,22,2,,
+7,US,Financial Services,Medium,284,White or Caucasian,Female,Heterosexual,50+,no,12,1,,
+7,US,Financial Services,Medium,285,Asian or Asian American,Female,Heterosexual,40+,invisible,9,1,,
+7,US,Financial Services,Medium,286,Black or African American,Female,Heterosexual,30+,no,2,-1,,
+7,US,Financial Services,Medium,287,White or Caucasian,Female,Heterosexual,50+,no,15,1,,
+7,US,Financial Services,Medium,288,White or Caucasian,Female,Queer,30+,invisible,9,2,,
+7,US,Financial Services,Medium,289,White or Caucasian,Female,Heterosexual,50+,no,25,2,,
+7,US,Financial Services,Medium,290,White or Caucasian,Female,Heterosexual,40+,no,21,2,,
+7,US,Financial Services,Medium,291,Black or African American,Male,Heterosexual,60+,no,30,1,,
+7,US,Financial Services,Medium,292,Black or African American,Female,Heterosexual,50+,invisible,33,2,,
+7,US,Financial Services,Medium,293,White or Caucasian,Male,Heterosexual,40+,no,16,2,,
+7,US,Financial Services,Medium,294,Biracial or Mixed Race,Male,Heterosexual,50+,no,14,2,,
+7,US,Financial Services,Medium,295,Asian or Asian American,Female,Heterosexual,50+,no,13,1,,
+7,US,Financial Services,Medium,296,Black or African American,Female,Heterosexual,40+,no,21,1,,
+7,US,Financial Services,Medium,297,Black or African American,Male,Heterosexual,30+,no,16,1,,
+7,US,Financial Services,Medium,298,White or Caucasian,Female,Heterosexual,40+,no,23,1,,
+7,US,Financial Services,Medium,299,Black or African American,Female,Heterosexual,40+,prefer not to say,5,-1,,
+7,US,Financial Services,Medium,300,White or Caucasian,Female,Heterosexual,50+,no,20,1,,
+7,US,Financial Services,Medium,301,Black or African American,Male,Heterosexual,30+,no,3,2,,
+7,US,Financial Services,Medium,302,Hispanic or Latinx,Female,Prefer not to say,30+,prefer not to say,3,1,,
+7,US,Financial Services,Medium,303,Prefer not to say,Male,Prefer not to say,40+,no,13,2,,
+7,US,Financial Services,Medium,304,White or Caucasian,Male,Heterosexual,50+,no,19,1,,
+7,US,Financial Services,Medium,305,White or Caucasian,Female,Heterosexual,30+,invisible,1,1,,
+7,US,Financial Services,Medium,306,White or Caucasian,Male,Heterosexual,Prefer not to say,no,0,0,,
+7,US,Financial Services,Medium,307,White or Caucasian,Female,Heterosexual,30+,no,8,2,,
+7,US,Financial Services,Medium,308,Black or African American,Female,Heterosexual,40+,no,17,1,,
+7,US,Financial Services,Medium,309,White or Caucasian,Female,Heterosexual,50+,invisible,21,1,,
+7,US,Financial Services,Medium,310,White or Caucasian,Female,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,311,White or Caucasian,Female,Heterosexual,50+,no,28,2,,
+7,US,Financial Services,Medium,312,White or Caucasian,Female,Heterosexual,40+,no,22,2,,
+7,US,Financial Services,Medium,313,White or Caucasian,Male,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,314,Black or African American,Male,Heterosexual,50+,no,20,1,,
+7,US,Financial Services,Medium,315,White or Caucasian,Female,Heterosexual,Prefer not to say,no,0,1,,
+7,US,Financial Services,Medium,316,White or Caucasian,Female,Heterosexual,40+,no,13,1,,
+7,US,Financial Services,Medium,317,White or Caucasian,Female,Heterosexual,20+,no,4,-1,,
+7,US,Financial Services,Medium,318,Black or African American,Female,Heterosexual,50+,no,28,0,,
+7,US,Financial Services,Medium,319,Black or African American,Male,Heterosexual,50+,no,16,1,,
+7,US,Financial Services,Medium,320,Black or African American,Male,Heterosexual,40+,no,4,-1,,
+7,US,Financial Services,Medium,321,Black or African American,Female,Heterosexual,50+,invisible,15,1,,
+7,US,Financial Services,Medium,322,White or Caucasian,Female,Heterosexual,50+,invisible,20,1,,
+7,US,Financial Services,Medium,323,White or Caucasian,Female,Heterosexual,40+,both,22,2,,
+7,US,Financial Services,Medium,324,White or Caucasian,Female,Heterosexual,30+,no,5,1,,
+7,US,Financial Services,Medium,325,Black or African American,Female,Heterosexual,40+,no,9,0,,
+7,US,Financial Services,Medium,327,Black or African American,Female,Heterosexual,40+,no,13,1,,
+7,US,Financial Services,Medium,328,Black or African American,Female,Heterosexual,30+,no,4,1,,
+7,US,Financial Services,Medium,329,Black or African American,Female,Heterosexual,40+,no,4,1,,
+7,US,Financial Services,Medium,330,Black or African American,Female,Heterosexual,30+,no,4,1,,
+7,US,Financial Services,Medium,331,Asian or Asian American,Male,Heterosexual,40+,no,3,1,,
+7,US,Financial Services,Medium,332,Asian or Asian American,Female,Heterosexual,40+,no,18,2,,
+7,US,Financial Services,Medium,333,White or Caucasian,Male,Heterosexual,50+,both,20,0,,
+7,US,Financial Services,Medium,334,White or Caucasian,Male,Heterosexual,50+,invisible,28,1,,
+7,US,Financial Services,Medium,335,White or Caucasian,Male,Heterosexual,30+,no,15,2,,
+7,US,Financial Services,Medium,336,White or Caucasian,Female,Heterosexual,20+,no,1,2,,
+7,US,Financial Services,Medium,337,Asian or Asian American,Female,Heterosexual,40+,no,16,1,,
+7,US,Financial Services,Medium,338,White or Caucasian,Female,Heterosexual,50+,no,8,1,,
+7,US,Financial Services,Medium,339,White or Caucasian,Female,Heterosexual,40+,no,17,1,,
+7,US,Financial Services,Medium,340,White or Caucasian,Female,Heterosexual,50+,invisible,15,2,,
+7,US,Financial Services,Medium,341,White or Caucasian,Female,Heterosexual,40+,no,15,1,,
+7,US,Financial Services,Medium,342,Black or African American,Female,Heterosexual,40+,no,13,1,,
+7,US,Financial Services,Medium,343,White or Caucasian,Female,Heterosexual,50+,no,3,1,,
+7,US,Financial Services,Medium,344,White or Caucasian,Female,Heterosexual,40+,no,19,2,,
+7,US,Financial Services,Medium,345,Prefer not to say,Female,Heterosexual,50+,no,25,1,,
+7,US,Financial Services,Medium,346,White or Caucasian,Prefer not to say,Prefer not to say,20+,no,7,1,,
+7,US,Financial Services,Medium,347,White or Caucasian,Male,Prefer not to say,30+,invisible,3,0,,
+7,US,Financial Services,Medium,348,White or Caucasian,Male,Heterosexual,20+,no,1,-1,,
+7,US,Financial Services,Medium,349,Black or African American,Female,Heterosexual,50+,invisible,28,1,,
+7,US,Financial Services,Medium,350,White or Caucasian,Female,Heterosexual,30+,no,0,1,,
+7,US,Financial Services,Medium,351,Prefer not to say,Female,Heterosexual,40+,no,20,1,,
+7,US,Financial Services,Medium,352,White or Caucasian,Female,Asexual,Prefer not to say,invisible,0,1,,
+7,US,Financial Services,Medium,353,Black or African American,Male,Asexual,50+,no,15,2,,
+7,US,Financial Services,Medium,354,White or Caucasian,Male,Gay/ Lesbian,30+,no,18,2,,
+7,US,Financial Services,Medium,355,White or Caucasian,Male,Heterosexual,30+,no,1,1,,
+7,US,Financial Services,Medium,356,White or Caucasian,Female,Heterosexual,30+,no,0,2,,
+7,US,Financial Services,Medium,357,Asian or Asian American,Female,Prefer not to say,30+,no,4,0,,
+7,US,Financial Services,Medium,358,White or Caucasian,Prefer not to say,Prefer not to say,30+,no,10,1,,
+7,US,Financial Services,Medium,359,White or Caucasian,Male,Heterosexual,50+,no,4,1,,
+7,US,Financial Services,Medium,360,Asian or Asian American,Female,Prefer not to say,30+,no,4,0,,
+7,US,Financial Services,Medium,361,Asian or Asian American,Female,Heterosexual,20+,no,2,2,,
+7,US,Financial Services,Medium,362,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,0,,
+7,US,Financial Services,Medium,363,Black or African American,Male,Heterosexual,40+,no,3,1,,
+7,US,Financial Services,Medium,364,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,7,1,,
+7,US,Financial Services,Medium,365,Asian or Asian American,Female,Prefer not to say,30+,no,4,0,,
+7,US,Financial Services,Medium,367,Asian or Asian American,Female,Heterosexual,30+,no,2,1,,
+8,US,Nonprofit,Small,639,Black or African American,Male,Heterosexual,30+,no,10,0,full-time,club
+8,US,Nonprofit,Small,640,Black or African American,Female,Gay/ Lesbian,40+,no,24,2,full-time,support-center
+8,US,Nonprofit,Small,641,White or Caucasian,Female,Heterosexual,30+,no,4,1,full-time,support-center
+8,US,Nonprofit,Small,642,White or Caucasian,Female,Heterosexual,30+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,643,Black or African American,Female,Heterosexual,20+,no,6,1,full-time,club
+8,US,Nonprofit,Small,644,White or Caucasian,Female,Heterosexual,20+,no,2,1,full-time,support-center
+8,US,Nonprofit,Small,645,Black or African American,Male,Heterosexual,20+,no,1,0,full-time,support-center
+8,US,Nonprofit,Small,646,White or Caucasian,Female,Heterosexual,20+,no,2,1,full-time,support-center
+8,US,Nonprofit,Small,647,White or Caucasian,Male,Heterosexual,40+,no,2,-1,full-time,club
+8,US,Nonprofit,Small,648,White or Caucasian,Female,Heterosexual,50+,no,5,-1,part-time,support-center
+8,US,Nonprofit,Small,649,Black or African American,Female,Heterosexual,30+,visible,4,1,full-time,support-center
+8,US,Nonprofit,Small,650,Black or African American,Female,Heterosexual,20+,prefer not to say,2,1,full-time,club
+8,US,Nonprofit,Small,651,White or Caucasian,Female,Bisexual,20+,prefer not to say,5,1,full-time,support-center
+8,US,Nonprofit,Small,652,Black or African American,Female,Heterosexual,30+,no,5,2,full-time,club
+8,US,Nonprofit,Small,653,Black or African American,Female,Heterosexual,20+,no,5,1,full-time,club
+8,US,Nonprofit,Small,654,Black or African American,Female,Heterosexual,30+,no,5,-1,full-time,club
+8,US,Nonprofit,Small,655,Black or African American,Female,Heterosexual,30+,no,13,0,full-time,club
+8,US,Nonprofit,Small,656,Black or African American,Female,Heterosexual,40+,no,6,1,full-time,support-center
+8,US,Nonprofit,Small,657,White or Caucasian,Female,Heterosexual,20+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,658,Black or African American,Male,Heterosexual,30+,no,7,1,full-time,club
+8,US,Nonprofit,Small,659,Black or African American,Female,Heterosexual,30+,no,10,1,full-time,support-center
+8,US,Nonprofit,Small,660,Black or African American,Female,Heterosexual,30+,no,0,1,full-time,club
+8,US,Nonprofit,Small,661,Hispanic or Latinx,Male,Heterosexual,30+,no,2,1,full-time,club
+8,US,Nonprofit,Small,662,Biracial or Mixed Race,Non-conforming,Pansexual,40+,both,15,1,full-time,club
+8,US,Nonprofit,Small,663,Hispanic or Latinx,Male,Heterosexual,50+,invisible,11,1,full-time,support-center
+8,US,Nonprofit,Small,664,Black or African American,Male,Heterosexual,40+,no,15,1,full-time,club
+8,US,Nonprofit,Small,665,Black or African American,Female,Asexual,20+,no,5,1,full-time,support-center
+8,US,Nonprofit,Small,666,Black or African American,Male,Heterosexual,30+,invisible,6,1,full-time,club
+8,US,Nonprofit,Small,667,Black or African American,Male,Heterosexual,40+,no,2,1,full-time,support-center
+8,US,Nonprofit,Small,668,Black or African American,Male,Heterosexual,20+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,669,Black or African American,Female,Heterosexual,30+,no,1,1,full-time,club
+8,US,Nonprofit,Small,670,White or Caucasian,Female,Heterosexual,30+,no,4,1,part-time,support-center
+8,US,Nonprofit,Small,671,Prefer not to say,Female,Prefer not to say,Prefer not to say,no,10,0,full-time,club
+8,US,Nonprofit,Small,672,White or Caucasian,Female,Heterosexual,50+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,673,White or Caucasian,Male,Heterosexual,40+,no,2.5,1,full-time,support-center
+8,US,Nonprofit,Small,674,White or Caucasian,Female,Heterosexual,30+,invisible,10,1,full-time,support-center
+8,US,Nonprofit,Small,675,Black or African American,Female,Heterosexual,30+,no,6,1,full-time,club
+8,US,Nonprofit,Small,676,White or Caucasian,Male,Heterosexual,40+,no,20,1,full-time,club
+8,US,Nonprofit,Small,677,Black or African American,Female,Heterosexual,40+,no,7,2,full-time,support-center
+8,US,Nonprofit,Small,678,White or Caucasian,Female,Heterosexual,40+,no,11,2,full-time,club
+8,US,Nonprofit,Small,679,Black or African American,Male,Heterosexual,30+,no,14,1,full-time,club
+8,US,Nonprofit,Small,680,Biracial or Mixed Race,Male,Asexual,20+,no,3,1,full-time,club
+8,US,Nonprofit,Small,681,Black or African American,Female,Heterosexual,50+,no,23,2,full-time,support-center
+8,US,Nonprofit,Small,682,Black or African American,Female,Heterosexual,20+,no,5,-2,full-time,support-center
+8,US,Nonprofit,Small,683,Black or African American,Female,Heterosexual,40+,no,19,1,full-time,club
+8,US,Nonprofit,Small,684,Black or African American,Female,Heterosexual,40+,no,,0,full-time,support-center
+8,US,Nonprofit,Small,685,White or Caucasian,Male,Heterosexual,30+,no,0,1,full-time,support-center
+8,US,Nonprofit,Small,686,Black or African American,Female,Gay/ Lesbian,30+,no,14,1,full-time,club
+8,US,Nonprofit,Small,687,Prefer not to say,Female,Asexual,30+,invisible,5,0,full-time,club
+8,US,Nonprofit,Small,689,Black or African American,Female,Heterosexual,60+,no,42,1,full-time,club
+8,US,Nonprofit,Small,690,Biracial or Mixed Race,Female,Heterosexual,20+,no,8,2,full-time,support-center
+8,US,Nonprofit,Small,691,Black or African American,Male,Prefer not to say,40+,no,10,1,full-time,club
+8,US,Nonprofit,Small,692,Black or African American,Male,Heterosexual,Prefer not to say,no,23,2,full-time,club
+8,US,Nonprofit,Small,693,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,,-2,empty,empty
+8,US,Nonprofit,Small,694,White or Caucasian,Female,Heterosexual,30+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,695,White or Caucasian,Female,Heterosexual,20+,invisible,2,0,full-time,club
+8,US,Nonprofit,Small,696,White or Caucasian,Female,Heterosexual,20+,invisible,3,1,full-time,support-center
+8,US,Nonprofit,Small,697,Black or African American,Female,Heterosexual,30+,no,4,1,full-time,club
+8,US,Nonprofit,Small,698,White or Caucasian,Female,Heterosexual,40+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,699,Black or African American,Female,Heterosexual,40+,no,0,2,full-time,support-center
+8,US,Nonprofit,Small,700,Black or African American,Female,Prefer not to say,20+,no,2,0,part-time,club
+8,US,Nonprofit,Small,701,Black or African American,Female,Heterosexual,20+,no,0,2,part-time,club
+8,US,Nonprofit,Small,702,Black or African American,Male,Gay/ Lesbian,40+,no,2,1,full-time,support-center
+8,US,Nonprofit,Small,703,Black or African American,Female,Asexual,20+,no,4,1,part-time,club
+8,US,Nonprofit,Small,704,Hispanic or Latinx,Female,Heterosexual,20+,no,1,2,part-time,club
+8,US,Nonprofit,Small,705,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,0,part-time,club
+8,US,Nonprofit,Small,706,Black or African American,Female,Gay/ Lesbian,20+,no,,2,part-time,club
+8,US,Nonprofit,Small,707,Black or African American,Male,Asexual,30+,no,6,1,full-time,club
+8,US,Nonprofit,Small,708,Black or African American,Female,Prefer not to say,20+,no,3,-1,part-time,club
+8,US,Nonprofit,Small,709,Black or African American,Female,Heterosexual,30+,no,10,0,full-time,club
+8,US,Nonprofit,Small,710,Black or African American,Female,Heterosexual,20+,invisible,,1,part-time,club
+8,US,Nonprofit,Small,711,Black or African American,Female,Heterosexual,40+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,712,Black or African American,Female,Heterosexual,20+,visible,3,0,part-time,club
+8,US,Nonprofit,Small,713,Black or African American,Female,Prefer not to say,20+,invisible,1,1,part-time,club
+8,US,Nonprofit,Small,714,Black or African American,Female,Heterosexual,40+,no,,0,part-time,support-center
+8,US,Nonprofit,Small,715,Black or African American,Non-conforming,Pansexual,20+,both,3,1,part-time,club
+8,US,Nonprofit,Small,716,Black or African American,Male,Gay/ Lesbian,40+,invisible,9,1,part-time,club
+8,US,Nonprofit,Small,717,Black or African American,Female,Heterosexual,20+,no,0,2,part-time,club
+8,US,Nonprofit,Small,718,Black or African American,Female,Prefer not to say,20+,no,3,1,part-time,club
+8,US,Nonprofit,Small,719,Black or African American,Female,Heterosexual,20+,no,1,1,part-time,club
+8,US,Nonprofit,Small,720,Black or African American,Male,Heterosexual,20+,no,1,2,part-time,club
+8,US,Nonprofit,Small,721,Black or African American,Female,Heterosexual,30+,invisible,7,2,part-time,club
+8,US,Nonprofit,Small,722,Black or African American,Male,Asexual,30+,no,5,1,full-time,club
+8,US,Nonprofit,Small,723,Native Hawaiian or Pacific Islander/ Pacific Islander,Male,Heterosexual,20+,invisible,1,1,part-time,club
+8,US,Nonprofit,Small,724,Black or African American,Female,Heterosexual,20+,no,8,1,part-time,club
+8,US,Nonprofit,Small,725,Biracial or Mixed Race,Male,Heterosexual,20+,no,1,-1,part-time,club
+8,US,Nonprofit,Small,726,Black or African American,Female,Heterosexual,60+,both,2,-1,part-time,club
+8,US,Nonprofit,Small,727,Black or African American,Female,Heterosexual,40+,no,6,1,full-time,club
+8,US,Nonprofit,Small,728,Black or African American,Female,Heterosexual,30+,no,1,-2,part-time,club
+8,US,Nonprofit,Small,729,Black or African American,Male,Heterosexual,20+,no,6,1,part-time,club
+8,US,Nonprofit,Small,730,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,,1,empty,empty
+8,US,Nonprofit,Small,731,Black or African American,Female,Heterosexual,50+,invisible,12,-1,part-time,club
+8,US,Nonprofit,Small,732,Black or African American,Male,Heterosexual,40+,no,4,1,part-time,club
+8,US,Nonprofit,Small,733,Hispanic or Latinx,Female,Heterosexual,40+,no,9,-1,full-time,support-center
+8,US,Nonprofit,Small,734,Black or African American,Female,Heterosexual,40+,no,3,-1,part-time,club
+8,US,Nonprofit,Small,735,Hispanic or Latinx,Male,Heterosexual,20+,no,3,1,part-time,club
+8,US,Nonprofit,Small,736,Prefer not to say,Non-binary,Gay/ Lesbian,20+,invisible,3,2,part-time,club
+8,US,Nonprofit,Small,737,Black or African American,Female,Prefer not to say,40+,no,,2,part-time,club
+8,US,Nonprofit,Small,738,Biracial or Mixed Race,Female,Heterosexual,20+,invisible,0,0,part-time,club
+8,US,Nonprofit,Small,739,Black or African American,Female,Heterosexual,20+,no,7,2,full-time,club
+8,US,Nonprofit,Small,740,Black or African American,Female,Heterosexual,20+,no,0,1,part-time,club
+8,US,Nonprofit,Small,741,Black or African American,Male,Heterosexual,40+,no,18,1,full-time,club
+8,US,Nonprofit,Small,742,Hispanic or Latinx,Female,Bisexual,20+,invisible,5,1,part-time,club
+8,US,Nonprofit,Small,743,Black or African American,Male,Heterosexual,Prefer not to say,no,1,1,part-time,club
+8,US,Nonprofit,Small,744,White or Caucasian,Female,Heterosexual,40+,invisible,3.5,-2,part-time,club
+8,US,Nonprofit,Small,745,Black or African American,Female,Heterosexual,50+,no,20,-1,full-time,club
+8,US,Nonprofit,Small,746,Black or African American,Male,Heterosexual,50+,no,5,-1,full-time,support-center
+8,US,Nonprofit,Small,747,Black or African American,Female,Asexual,20+,no,2,0,part-time,club
+8,US,Nonprofit,Small,748,Hispanic or Latinx,Female,Heterosexual,20+,no,2,0,part-time,club
+8,US,Nonprofit,Small,749,Black or African American,Male,Asexual,20+,no,6,1,part-time,club
+8,US,Nonprofit,Small,750,Black or African American,Female,Heterosexual,30+,no,3,1,full-time,support-center
+8,US,Nonprofit,Small,751,Black or African American,Male,Heterosexual,20+,no,7,1,part-time,club
+8,US,Nonprofit,Small,752,Black or African American,Female,Heterosexual,30+,no,4,1,full-time,club
+8,US,Nonprofit,Small,753,Black or African American,Female,Heterosexual,40+,no,11,1,full-time,support-center
+8,US,Nonprofit,Small,754,Black or African American,Male,Heterosexual,40+,no,4,-1,part-time,club
+8,US,Nonprofit,Small,755,White or Caucasian,Female,Heterosexual,30+,no,2,-2,part-time,club
+8,US,Nonprofit,Small,756,Black or African American,Female,Bisexual,20+,invisible,,2,part-time,club
+8,US,Nonprofit,Small,757,Black or African American,Male,Heterosexual,Prefer not to say,no,10,1,full-time,club
+8,US,Nonprofit,Small,758,White or Caucasian,Male,Heterosexual,60+,no,39,2,full-time,club
+8,US,Nonprofit,Small,759,Black or African American,Female,Heterosexual,60+,invisible,5,1,part-time,club
+8,US,Nonprofit,Small,760,White or Caucasian,Female,Heterosexual,40+,no,2,2,full-time,support-center
+8,US,Nonprofit,Small,761,Black or African American,Male,Heterosexual,20+,no,10,2,part-time,club
+8,US,Nonprofit,Small,762,Black or African American,Female,Heterosexual,60+,invisible,0,1,part-time,club
+8,US,Nonprofit,Small,763,Black or African American,Male,Heterosexual,30+,no,2,0,part-time,club
+8,US,Nonprofit,Small,764,Black or African American,Female,Heterosexual,60+,no,15,1,part-time,club
+8,US,Nonprofit,Small,765,Black or African American,Female,Heterosexual,40+,no,3,1,part-time,club
+8,US,Nonprofit,Small,766,Black or African American,Female,Heterosexual,30+,no,11,-1,part-time,club
+8,US,Nonprofit,Small,767,Biracial or Mixed Race,Male,Heterosexual,20+,no,5,-1,part-time,club
+8,US,Nonprofit,Small,768,Black or African American,Female,Heterosexual,40+,invisible,5,1,part-time,club
+8,US,Nonprofit,Small,769,White or Caucasian,Male,Prefer not to say,50+,invisible,10,2,full-time,club
+8,US,Nonprofit,Small,770,Black or African American,Male,Heterosexual,30+,no,4,1,full-time,club
+8,US,Nonprofit,Small,771,White or Caucasian,Female,Heterosexual,40+,invisible,3,-2,part-time,club
+8,US,Nonprofit,Small,772,Black or African American,Male,Heterosexual,20+,no,,1,part-time,club
+8,US,Nonprofit,Small,773,Black or African American,Male,Prefer not to say,20+,no,0,2,part-time,club
+8,US,Nonprofit,Small,774,Black or African American,Female,Asexual,20+,no,9,2,part-time,club
+8,US,Nonprofit,Small,775,Asian or Asian American,Female,Prefer not to say,20+,no,3,1,part-time,club
+8,US,Nonprofit,Small,777,Black or African American,Female,Prefer not to say,50+,no,1,1,part-time,club
+8,US,Nonprofit,Small,778,White or Caucasian,Female,Heterosexual,30+,no,7,1,full-time,club
+8,US,Nonprofit,Small,779,Black or African American,Female,Heterosexual,60+,no,5,-1,full-time,club
+8,US,Nonprofit,Small,780,Black or African American,Female,Heterosexual,60+,no,2,1,part-time,club
+8,US,Nonprofit,Small,781,Black or African American,Female,Heterosexual,30+,no,6,0,full-time,club
+8,US,Nonprofit,Small,782,Black or African American,Male,Prefer not to say,30+,no,1,1,part-time,club
+8,US,Nonprofit,Small,783,Black or African American,Male,Heterosexual,30+,no,1,1,part-time,club
+8,US,Nonprofit,Small,784,Black or African American,Male,Heterosexual,40+,prefer not to say,9,2,full-time,club
+8,US,Nonprofit,Small,785,Black or African American,Female,Heterosexual,20+,invisible,1,1,part-time,club
+8,US,Nonprofit,Small,786,Prefer not to say,Prefer not to say,Heterosexual,Prefer not to say,no,,1,skip,club
+8,US,Nonprofit,Small,787,Black or African American,Female,Heterosexual,20+,no,0,1,full-time,club
+8,US,Nonprofit,Small,788,Black or African American,Female,Asexual,20+,invisible,1,2,part-time,club
+8,US,Nonprofit,Small,789,Black or African American,Male,Heterosexual,40+,no,12,2,full-time,club
+8,US,Nonprofit,Small,790,Black or African American,Male,Heterosexual,20+,no,1,1,part-time,club
+8,US,Nonprofit,Small,791,Black or African American,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,,2,empty,empty
+8,US,Nonprofit,Small,792,Prefer not to say,Male,Heterosexual,Prefer not to say,no,4,2,part-time,club
+8,US,Nonprofit,Small,793,Black or African American,Male,Heterosexual,30+,no,0,0,part-time,club
+8,US,Nonprofit,Small,794,Prefer not to say,Prefer not to say,Prefer not to say,60+,no,4,-1,part-time,club
+8,US,Nonprofit,Small,795,Black or African American,Female,Heterosexual,30+,no,0,1,full-time,club
+8,US,Nonprofit,Small,796,Biracial or Mixed Race,Female,Heterosexual,30+,no,4,1,full-time,club
+8,US,Nonprofit,Small,797,Black or African American,Female,Heterosexual,Prefer not to say,no,,-1,full-time,empty
+8,US,Nonprofit,Small,799,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,prefer not to say,0,-1,skip,club
+8,US,Nonprofit,Small,800,Black or African American,Female,Prefer not to say,40+,invisible,20,1,part-time,club
+8,US,Nonprofit,Small,801,White or Caucasian,Female,Heterosexual,40+,no,0,2,part-time,club
+8,US,Nonprofit,Small,802,Black or African American,Female,Heterosexual,70+,no,13,1,part-time,club
+8,US,Nonprofit,Small,803,White or Caucasian,Prefer not to say,Prefer not to say,70+,prefer not to say,2,2,part-time,club
+8,US,Nonprofit,Small,804,Prefer not to say,Female,Prefer not to say,20+,no,6,1,part-time,club
+8,US,Nonprofit,Small,805,Black or African American,Female,Prefer not to say,40+,invisible,3,-2,part-time,club
+8,US,Nonprofit,Small,806,Hispanic or Latinx,Female,Heterosexual,30+,no,0,1,part-time,club
+8,US,Nonprofit,Small,807,Black or African American,Male,Prefer not to say,30+,no,,2,part-time,club
+8,US,Nonprofit,Small,808,Black or African American,Male,Asexual,20+,no,3,2,part-time,club
+6,US,Various,Missing,595,White or Caucasian,Female,Heterosexual,30+,invisible,0,1,,
+6,US,Various,Missing,596,Hispanic or Latinx,Female,Heterosexual,30+,no,0,2,,
+6,US,Various,Missing,597,White or Caucasian,"Other, Transgender",Bisexual,40+,no,0,2,,
+6,US,Various,Missing,598,Black or African American,Female,Heterosexual,40+,no,0,2,,
+6,US,Various,Missing,600,White or Caucasian,Female,Heterosexual,50+,invisible,0,2,,
+6,US,Various,Missing,601,White or Caucasian,Male,Heterosexual,70+,no,0,2,,
+6,US,Various,Missing,602,Black or African American,Female,Heterosexual,30+,no,0,1,,
+6,US,Various,Missing,603,Black or African American,Female,Heterosexual,60+,no,0,1,,
+6,US,Various,Missing,605,White or Caucasian,Female,Gay/ Lesbian,40+,invisible,0,1,,
+6,US,Various,Missing,606,White or Caucasian,Male,Queer,30+,both,0,1,,
+6,US,Various,Missing,607,Asian or Asian American,Female,Heterosexual,40+,no,0,-1,,
